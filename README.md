@@ -4,7 +4,7 @@
 
 Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.1** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.5.3** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@prism-studio/visual-art-e-glitch)**
 https://motiongit.com/@prism-studio/visual-art-e-glitch
