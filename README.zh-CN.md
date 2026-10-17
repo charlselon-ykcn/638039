@@ -4,7 +4,7 @@
 
 用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.5** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.0** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@prism-studio/visual-art-e-glitch)**
 https://motiongit.com/@prism-studio/visual-art-e-glitch
