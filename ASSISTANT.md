@@ -3,7 +3,7 @@
 Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-e-glitch
-Version: 2.6.0
+Version: 2.6.1
 Download available; current terms are listed with the package.
 
 ## Technical reference
