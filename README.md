@@ -11,7 +11,7 @@ Motion templates now support asset APIs for background music, stickers, images a
 **[Download .motion from MotionGit](https://motiongit.com/@prism-studio/visual-art-e-glitch)**
 https://motiongit.com/@prism-studio/visual-art-e-glitch
 
-Download available; current terms are listed with the package.
+Demo available; template download coming soon.
 
 ## Demo
 

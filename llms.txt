@@ -2,7 +2,7 @@
 
 Template and full package: https://motiongit.com/@prism-studio/visual-art-e-glitch
 Version: 2.6.4
-Download available; current terms are listed with the package.
+Demo available; template download coming soon.
 
 Declared runtime profile: html-canvas/1.
 Editable inputs are mapped through the template parameter schema and preset to its existing animation project.

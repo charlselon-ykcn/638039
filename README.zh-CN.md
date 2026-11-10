@@ -11,7 +11,7 @@ Motion 模板现已接入背景音乐、贴纸、图片和视频等素材接口�
 **[官网下载 .motion](https://motiongit.com/@prism-studio/visual-art-e-glitch)**
 https://motiongit.com/@prism-studio/visual-art-e-glitch
 
-下载已开放，当前许可见模板页面与下载包。
+Demo 已公开，模板下载即将开放。
 
 ## Demo
 

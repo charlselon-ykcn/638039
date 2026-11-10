@@ -4,7 +4,7 @@ Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-e-glitch
 Version: 2.6.4
-Download available; current terms are listed with the package.
+Demo available; template download coming soon.
 
 ## Technical reference
 
